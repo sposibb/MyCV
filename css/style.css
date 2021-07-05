@@ -22,7 +22,7 @@ body {
 .about-me-profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 17px;
   color: #000;
   margin-bottom: 20px;
@@ -193,4 +193,9 @@ body {
 }
 .contacts-padding1 {
   padding-left: 7px;
+}
+
+.hobbys {
+  display: flex;
+  justify-content: space-between;
 }
